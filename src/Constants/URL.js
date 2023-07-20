@@ -1,0 +1,1 @@
+export const  API_ULR = 'https://64b76091df0839c97e168d79.mockapi.io/user/'
